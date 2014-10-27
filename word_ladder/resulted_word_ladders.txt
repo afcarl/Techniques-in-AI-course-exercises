@@ -1,0 +1,9 @@
+'warm'    'wart'    'gart'    'galt'    'kalt'
+'geld'    'held'    'helm'    'heim'    'reim'    'reit'    'zeit'
+'fass'    'fast'    'bast'    'bist'    'biet'    'bier'
+'fels'    'fell'    'fall'    'hall'    'halt'    'haut'    'baut'    'blut'
+'hase'    'hass'    'hans'    'hand'    'hund'
+'holz'    'holm'    'halm'    'hals'    'haus'
+'bein'    'bern'    'kern'    'korn'    'dorn'    'dorf'    'torf'    'topf'    'kopf'
+gold -> blei: impossible
+'meer'    'heer'    'hier'    'bier'    'bieg'    'birg'    'berg'
